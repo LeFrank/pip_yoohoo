@@ -1,0 +1,7 @@
+README.md
+setup.py
+yoohoo/__init__.py
+yoohoo_FrancoisCampbell.egg-info/PKG-INFO
+yoohoo_FrancoisCampbell.egg-info/SOURCES.txt
+yoohoo_FrancoisCampbell.egg-info/dependency_links.txt
+yoohoo_FrancoisCampbell.egg-info/top_level.txt
